@@ -2,9 +2,9 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
+    title: 'Chapel Shiraz',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'AU | Angostura Bitters | Bottle',
   },
   {
     title: 'Catena Malbee',
@@ -12,17 +12,17 @@ const wines = [
     tags: 'AU | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'Vieillw ',
     price: '$44',
     tags: 'FR | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Rhino Ale',
     price: '$31',
     tags: 'CA | 750 ml',
   },
   {
-    title: 'Irish Guinness',
+    title: 'Guinness',
     price: '$26',
     tags: 'IE | 750 ml',
   },
@@ -32,12 +32,12 @@ const cocktails = [
   {
     title: 'Aperol Sprtiz',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Aperol | Marchesi prosecco | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Dark rum | Ginger beer ',
   },
   {
     title: 'Daiquiri',
@@ -47,12 +47,12 @@ const cocktails = [
   {
     title: 'Old Fashioned',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'Bourbon | Angostura Bitters',
   },
   {
     title: 'Negroni',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Gin | Sweet Vermouth | Campari',
   },
 ];
 
