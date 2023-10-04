@@ -8,12 +8,6 @@ import images from "../../constants/images";
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(true);
 
-  // const menuToggle = () => {
-  //   setToggleMenu(prevToggleMenu => {
-  //     prevToggleMenu ? GiHamburgerMenu.display = "none": GiHamburgerMenu.display = "block"
-  //   });
-  // };
-
   return (
     <nav className="app__nav">
       <div className="app__navbar-logo">
