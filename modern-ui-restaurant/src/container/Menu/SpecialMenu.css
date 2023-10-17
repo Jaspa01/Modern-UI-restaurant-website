@@ -101,3 +101,13 @@
     line-height: 48px;
   }
 }
+
+@media screen and (max-width: 395px) {
+  .app__specialMenu-title h1 {
+    font-size: 40px;
+  }
+
+  .app__specialMenu-title {
+    margin-bottom: 0rem;
+  }
+}

@@ -80,3 +80,10 @@
     margin: 1rem 0;
   }
 }
+
+@media screen and (max-width: 395px) {
+  .app__laurels h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+}

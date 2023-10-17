@@ -61,3 +61,9 @@
         width: 80px;
     }
 }
+
+@media screen and (max-width: 395px) {
+    .app__wrapper_info h1{
+       font-size: 38px;
+    }
+}

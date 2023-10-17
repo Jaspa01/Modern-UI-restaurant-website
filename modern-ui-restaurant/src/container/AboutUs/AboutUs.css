@@ -94,3 +94,15 @@
         margin-top: 0px;
     }
 }
+
+@media screen and (max-width: 395px) {
+  .app__aboutus .headtext__cormorant {
+      font-size: 40px;
+  }
+
+  .app__aboutus-content_history .headtext__cormorant {
+    font-size: 40px;
+}
+}
+
+
